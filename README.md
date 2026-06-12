@@ -2,7 +2,7 @@
 
 >[!NOTE] IMPORTANT: This project is still in progress and for educational purposes only.
 
-## Commandd
+## Command
 
 Convert jupyter notebook to marimo python script
 
